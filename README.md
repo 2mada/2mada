@@ -1,9 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 🐒, I'm Adam</h1>
+<h3 align="center">A self-taught full-stack developer from the UK</h3>
 
-<!--
-**2mada/2mada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on TheOdinProject's [Full Stack Course](https://www.theodinproject.com/paths)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on The Odin Project's Full Stack Course
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 👨‍💻 All of my projects are available at [https://github.com/2mada?tab=repositories](https://github.com/2mada?tab=repositories)
