@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🐒, I'm Adam</h1>
+<h1 align="center">Hi there 🐒</h1>
 <h3 align="center">A self-taught full-stack developer from the UK</h3>
 
 - 🔭 I’m currently working on TheOdinProject's [Full Stack Course](https://www.theodinproject.com/paths)
